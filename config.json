@@ -1,0 +1,7 @@
+{
+  "url" : "https://www.wildberries.ru/catalog/produkty/vkusnye-podarki?sort=popular&page=1&xsubject=3374",
+  "work_mode (1 is invisible mode, 0 is visible mode)" : 1,
+  "images_use (1 is True, 0 is False)" : 1,
+  "images_download (1 is True, 0 is False)" : 1,
+  "selenium_headless (1 is True, 0 is False)" : 0
+}
